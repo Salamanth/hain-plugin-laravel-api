@@ -1,6 +1,6 @@
 {
     "name": "hain-plugin-laravel-api",
-    "version": "0.0.2",
+    "version": "0.0.4",
     "description": "Hain plugin to search in Laravel API",
     "main": "index.js",
     "repository": {
