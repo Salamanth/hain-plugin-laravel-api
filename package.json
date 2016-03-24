@@ -15,7 +15,7 @@
     "homepage": "https://github.com/sewnboy/hain-plugin-laravel-api.git",
     "hain": {
         "prefix": "/larapi",
-        "usage": "/larapi something",
+        "usage": "type /larapi to search in Laravel API",
         "icon": "/icon.png",
         "redirect": "/larapi "
     }
