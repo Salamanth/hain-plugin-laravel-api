@@ -1,0 +1,22 @@
+{
+    "name": "hain-plugin-laravel-api",
+    "version": "0.0.1",
+    "description": "Hain plugin to search in Laravel API",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/sewnboy/hain-plugin-laravel-api.git"
+    },
+    "author": "Hadrien BRUNAUD",
+    "license": "MIT",
+    "keywords": [
+        "hain0"
+    ],
+    "homepage": "https://github.com/sewnboy/hain-plugin-laravel-api.git",
+    "hain": {
+        "prefix": "/larapi",
+        "usage": "/larapi something",
+        "icon": "/icon.png",
+        "redirect": "/larapi "
+    }
+}
